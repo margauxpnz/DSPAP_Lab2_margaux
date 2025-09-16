@@ -1,4 +1,4 @@
 data:
-  path: Cleaned.csv
+  path: ../data/data_cleaned.csv
 pca:
   n_components: 2
